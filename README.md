@@ -29,7 +29,7 @@ Password: admin<br>
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 
-# Authors
+# Author
 ## Timur Zhusuev
 <ul>
 <li>first version was taken here and slowly remade https://github.com/TrombiSE/ShashlindosTest</li>
