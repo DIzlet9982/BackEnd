@@ -6,6 +6,8 @@ Login: admin <br>
 Password: admin<br>
 
 ![my image](images/123.jpg)
+![my image](images/124.jpg)
+![my image](images/125.jpg)
 
 # Technologies Used
 <ul>
