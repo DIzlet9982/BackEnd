@@ -37,4 +37,6 @@ Password: admin<br>
 ## Timur Zhusuev
 <ul>
 <li>first version was taken here and slowly remade https://github.com/TrombiSE/ShashlindosTest</li>
+  <li>Preview avaible by using this ling --> https://dizlet9982.github.io/BackEnd/
+</li>
 </ul>
